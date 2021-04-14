@@ -5,7 +5,7 @@
 using namespace std;
 
 //променливи
-
+int a;
 int const n=13;//рaзмери
 int const m=6;//мащаб
 int xMe=1, yMe=1;//нашите координати
